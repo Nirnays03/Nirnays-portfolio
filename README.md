@@ -34,13 +34,6 @@ This portfolio website serves as my professional space to share:
 4. **Work Experience** – Small real-life projects for *Envision Engineering Solutions* and *Prem Industries*.  
 5. **Contact** – Email, Fiverr, and Upwork links.
 
----
-
-## 📸 Preview
-![Portfolio Screenshot](images/screenshot.png)  
-*(Replace with an actual screenshot of your portfolio site, stored in the repo)*
-
----
 
 ## 🚀 How to Run Locally
 1. Clone this repository:
