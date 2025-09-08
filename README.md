@@ -38,4 +38,5 @@ This portfolio website serves as my professional space to share:
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Nirnays03/Nirnays-portfolio.git
+
