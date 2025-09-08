@@ -7,7 +7,7 @@ It is built using **HTML, CSS, and basic JavaScript**.
 ---
 
 ## 🔗 Live Demo
-👉 [View My Portfolio](https://nirnays03.github.io/Nirnays-portfolio/)  
+👉 [View My Portfolio](https://nirnays03.github.io/freelance-portfolio/) 
 
 ---
 
